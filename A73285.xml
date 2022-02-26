@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon, pointing out the chiefe causes, and cures, of such unruly stirres, as are not seldome found in the church of God Preached at Sawston in the countie of Cambridge, at the arch deacon of Elie his visitation held there, upon the nineteenth day of September, 1638. By Iohn Swan.</title>
+            <author>Swan, John, d. 1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1639</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73285</idno>
+            <idno type="STC">STC 23515</idno>
+            <idno type="STC">ESTC S125547</idno>
+            <idno type="EEBO-CITATION">99900641</idno>
+            <idno type="PROQUEST">99900641</idno>
+            <idno type="VID">135623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2086:1b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon, pointing out the chiefe causes, and cures, of such unruly stirres, as are not seldome found in the church of God Preached at Sawston in the countie of Cambridge, at the arch deacon of Elie his visitation held there, upon the nineteenth day of September, 1638. By Iohn Swan.</title>
+                  <author>Swan, John, d. 1671.</author>
+               </titleStmt>
+               <extent>[2], 24, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by I. D[awson]. and are to be sold by Daniel Pakeman, at the signe of the Raine-bow in Fleet-street neere the Temple gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy bound and filmed ollowing STC 23513.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135623:1"/>
+            <pb facs="tcp:135623:1" rendition="simple:additions"/>
+            <p>A SERMON, POINTING OVT THE CHIEFE Cauſes, and Cures, of ſuch unruly Stirres, as are not ſel<g ref="char:EOLhyphen"/>dome found in the Church of God.</p>
+            <p>Preached at SAWSTON in the Countie of <hi>Cambridge,</hi> at the Arch Deacon of <hi>Elie</hi> his Viſitation held there, upon the nineteenth day of September, 1638.</p>
+            <p>
+               <hi>By</hi> IOHN SWAN.</p>
+            <q>
+               <bibl>
+                  <hi>ACTS. 20.30.</hi>
+               </bibl>
+               <p>Of your owne ſelves ſhall men ariſe, ſpeaking per<g ref="char:EOLhyphen"/>verſe things, to draw away Diſciples after them.</p>
+            </q>
+            <p>LONDON, Printed by <hi>I.D.</hi> and are to be ſold by <hi>Daniel Pakeman,</hi> at the ſigne of the Raine-bow in Fleet-ſtreet neere the Temple gate. 1639.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:135623:2"/>
+            <pb n="1" facs="tcp:135623:2"/>
+            <head>A SERMON, POINTING OVT the chiefe Cauſes, and Cures, of ſuch unruly Stirres as are not ſeldome found in the Church of God.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS 20.30.</hi>
+                  </bibl>
+                  <p>Of your owne ſelves ſhall men ariſe, ſpeaking per<g ref="char:EOLhyphen"/>verſe things, to draw away Diſciples after them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider the courſe that was taken by the greateſt Viſi<g ref="char:EOLhyphen"/>tour that ever was, I cannot but obſerve, that the only way to make Religion take the more place among the people, is to cleanſe the Church of ignorant, erronious, Schiſmaticall, and vitious Prieſts.<note place="margin">Luk. 19.41.45.</note> For when <hi>Ieruſalem</hi> was out of order, and that the Saviour of the World ſheds teares at the ſight thereof; hee travels to the Temple (as pointing to the cauſe)
+<pb n="2" facs="tcp:135623:3"/>and there begins his zealous Reformation: in which I doubt not, but hee hath ſet a patterne for after-ages, to ſee that thoſe among us bee likewiſe of us; leſt otherwiſe the Sheepe which wee are ſet to keepe from wandring, doe ſtray from what is right.</p>
+            <p>I held it but my dutie therefore to make choice of ſuch a text, as in the handling might ſomewhat ſerve to ſcrutinize the cauſe of ſuch unruly ſtirres as are not ſeldome found in the Church of God.</p>
+            <p>And not to bee long before I bring you to it, it was (as you know) the fourth Station mentioned in this Chapter, which was the moſt famous and remarkable. For when Saint <hi>Paul</hi> was come to <hi>Melitum,</hi> and had ſent for the Elders of <hi>Epheſus</hi> thither, hee ſounds forth a <hi>Goncio valedictoria,</hi> or a patheticall <hi>Vale</hi> to thoſe Churches which hee was then about to leave; and hath it chiefly in his heart and tongue, that They whom hee left behind him, ſhould both looke unto themſelves, and the Cures committed to their charge: imitating herein that fatherly love which carefull Pa<g ref="char:EOLhyphen"/>rents uſe to afford to their deare children. <hi>Impii enim eſſent Parentes, qui liberos à ſe geni<g ref="char:EOLhyphen"/>tos non etiam ſumma cura alerent, &amp; morituri, illis in poſterum quoque non proſpicerent.</hi> From which this our Apoſtle was free enough: and therefore labours what hee can to provide well for the Church in the dayes and yeares
+<pb n="3" facs="tcp:135623:3"/>which were to bee after him.</p>
+            <p>He ſpeakes to them all aſſembled; but chiefly to thoſe who were not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: which though Saint <hi>Hierom</hi> (writing to <hi>E<g ref="char:EOLhyphen"/>vagrius</hi>) paſſed over; yet it no way appeareth that either <hi>Soſipater, Ariſtarchus, Secundus, Gaius, Timotheus, Tichicus,</hi> or <hi>Trophimus</hi> (all mentioned at the fourth verſe) were departed from him:<note place="margin">Doroth. Sy<g ref="char:EOLhyphen"/>nopſ. ubi nar<g ref="char:EOLhyphen"/>ratur quod Soſipater erat Epiſcopus Ico<g ref="char:EOLhyphen"/>nii, Timotheus Epiſcopus E<g ref="char:EOLhyphen"/>pheſi, &amp; Ty<g ref="char:EOLhyphen"/>chicus Chalce<g ref="char:EOLhyphen"/>done Bithy<g ref="char:EOLhyphen"/>niae.</note> Three of which are certainly knowne to bee <hi>Epiſcopi;</hi> as <hi>Doretheus</hi> hath re<g ref="char:EOLhyphen"/>corded. Nor was a fourth but a Biſhop after<g ref="char:EOLhyphen"/>wards; as in the ſame authour well appeareth: For <hi>Epheſiorum Epiſcopus poſt Timotheum, Gaius factus eſt.</hi>
+            </p>
+            <p>Now, as in this his Sermon hee uſeth many arguments to ſtirre them unto heed and watch<g ref="char:EOLhyphen"/>fulneſſe; ſo chiefly two, in which hee prophe<g ref="char:EOLhyphen"/>ſieth;</p>
+            <p>Firſt, that after his departure grievous Wolves ſhould enter in among them, not ſparing the Flocke.</p>
+            <p>And ſecondly, that from among themſelves alſo ſhould ariſe men ſpeaking perverſe things to draw away Diſciples after them.</p>
+            <p>My text then is the latter of theſe two Pro<g ref="char:EOLhyphen"/>phecies; and is ſo much the more lamentable, by how much the parties pointed out are the neerer to that body which they riſe againſt.</p>
+            <p>I ſhall name it therefore in the generall, <hi>Va<g ref="char:EOLhyphen"/>ticinium pro certo flebile,</hi> a ſad mournfull pro<g ref="char:EOLhyphen"/>pheſie: and ſhall conſider in it,
+<pb n="4" facs="tcp:135623:4"/>
+               <list>
+                  <item>Firſt the perſons ſeducing.</item>
+                  <item>Secondly, the parties ſeduced</item>
+               </list>
+            </p>
+            <p>The perſons ſeducing, Men that ſhall ariſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from among your ſelves.</p>
+            <p>The parties ſeduced, The Diſciples which they draw after them.</p>
+            <p>The firſt, as Ring-leaders: The ſecond, as they that follow. The firſt as Heads: the ſe<g ref="char:EOLhyphen"/>cond, as the Bodie of a fatall Faction. The firſt as thoſe from whom a man would thinke farre better things ſhould bee expected: The ſecond as they who might have beene farre other<g ref="char:EOLhyphen"/>wiſe, if they had beene (as is required) better inſtructed.</p>
+            <p>In the firſt obſerve with me theſe five parti<g ref="char:EOLhyphen"/>culars.</p>
+            <list>
+               <item>1. The Denomination of the Agents. Men.</item>
+               <item>2. Their Manifeſtation. Shall ariſe.</item>
+               <item>3. Their <hi>Vnde</hi> or Originall. From among your ſelves.</item>
+               <item>4. Their Qualification, Actions, or Behavi<g ref="char:EOLhyphen"/>our. Speaking perverſe things.</item>
+            </list>
+            <p>And all this [fiftly and laſtly] to helpe for<g ref="char:EOLhyphen"/>ward their intention: which is, To draw away Diſciples after them.</p>
+            <p>And then ſecondly, for the parties ſeduced, we have alſo their Denomination firſt; and their miſerable condition next. For though they be intituled <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as were thoſe of Chriſts owne ſchoole, yet are they but the Diſciples of them who vexe the peace of their holy Mo<g ref="char:EOLhyphen"/>ther,
+<pb n="5" facs="tcp:135623:4"/>by ſpeaking perverſe things to draw away Diſciples after them.</p>
+            <p>Theſe I make the parts. And of theſe as ſeve<g ref="char:EOLhyphen"/>rally and diſtinctly as ſhall beſt ſute to the pre<g ref="char:EOLhyphen"/>ſent occaſion.</p>
+            <p n="1">1. And loe, here's firſt of all an inviting ti<g ref="char:EOLhyphen"/>tle, a promiſing and faire Denomination, Wolves in the former verſe: Men in this. And though there the name bee enough to wipe away the hope of any gentle or humane actions; yet here's a name, which (in it ſelfe) proclaimes, invites, and calls to an expectation of better doings.</p>
+            <p n="2">2. But becauſe a beautifull front may ſome<g ref="char:EOLhyphen"/>times prove deceitfull, and bee (as <hi>Pandora's</hi> box) faire without, and foule within, 'tis fit we take a ſecond ſtep, viewing their perſons as they come abroad to preſent themſelves on the ſtage before us. And ſure, faire weather ſtill ap<g ref="char:EOLhyphen"/>peares: for Men may ariſe and ſhew them<g ref="char:EOLhyphen"/>ſelves, and yet no danger.</p>
+            <p n="3">3. No thirdly, though their <hi>Vnde</hi> or original be verely and indeed from among our ſelves: For did not <hi>Moſes</hi> ariſe and ſtand in the gap, to turne away the wrath of God from his peo<g ref="char:EOLhyphen"/>ple? Nay, did not <hi>Aaron</hi> ariſe with a Cenſer in his hand, take fire from the Altar, put In<g ref="char:EOLhyphen"/>cenſe therein to make an attonement; and ſtan<g ref="char:EOLhyphen"/>ding betwixt the living and the dead, the plague was ceaſed? <hi>Phineas</hi> alſo roſe up in zeale, executed judgement; and ſo befriended
+<pb n="6" facs="tcp:135623:5"/>the ſad, ſicke; ſorrowfull, dying multitude.</p>
+            <p n="4">4. Thus they: And if all elſe could thus ho<g ref="char:EOLhyphen"/>nour their Manifeſtation and Originall, there had beene a want of thoſe many wounds with which the Daughters of <hi>Ieruſalem</hi> doe not ſeldome vex the quiet peace of their holy Mother. But the text goes [fourthly] farther, clouds each faire former promiſe with a ſad Cataſtrophe; and though it be a fatall prophe<g ref="char:EOLhyphen"/>ſie to relate of ſuch an off ſpring, yet <hi>Inimici hominis Domeſtici ejus, Our harmes are foretold to bee wrought by home bred enemies:</hi> yea, thoſe among us ſhall not bee alwayes of us, but will ſometimes ariſe to ſpeake (as ſaith the text) <hi>perverſe things:</hi> Or, as ſome gloſſe upon it, <hi>Verba diſtorta, obliqua, minime<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſincera.</hi> Which is enough to ſhew the ill qualited beha<g ref="char:EOLhyphen"/>viour of theſe Agents, and to point them forth as the Churches enemies.</p>
+            <p>Should the words that they ſpeake bee ſpo<g ref="char:EOLhyphen"/>ken for and not againſt, I would bee willing to grant them truly zealous: but ſpeaking to di<g ref="char:EOLhyphen"/>ſturbance, harme, and detriment, I cannot but affirme them truly viperous. For pitch but upon the cauſe, and then goe on.</p>
+            <p>Can that bee zeale when Men ariſe,<note place="margin">Ambition a cauſe.</note> becauſe they find they cannot bee raiſed? Or be thoſe words warrantable which bee ſpoken againſt, becauſe the ſpeakers cannot, as they would bee ſpoken for? I cannot thinke it: nor ſhould I make any mention hereof, but becauſe I find
+<pb n="7" facs="tcp:135623:5"/>that the Heads of moſt Factions, have beene fretted by the faylings of ambitious hopes.</p>
+            <p>Thus doth <hi>Euſebius</hi> tell us of one <hi>Thebulis,</hi>
+               <note place="margin">Euſeb. lib. <hi>4.</hi> hiſt. Eccleſiaſt. cap. <hi>21.</hi>
+               </note> who, in the Virgin dayes of the Churches pu<g ref="char:EOLhyphen"/>ritie, corrupted it, by reaſon of a repulſe from his wiſhed preferment. The like is recorded of that heretick <hi>Aërius,</hi> who taught for Do<g ref="char:EOLhyphen"/>ctrine, <hi>Presbyterum ab Epiſcopo nulla ratione debe<g ref="char:EOLhyphen"/>re diſcerni,</hi>
+               <note place="margin">Aug. Dehae<g ref="char:EOLhyphen"/>reſ. c. <hi>22.</hi>
+               </note> that by no meanes there was a diffe<g ref="char:EOLhyphen"/>rence to be made betweene Prieſts and Biſhops; And all this, becauſe hee himſelfe was denied the place of a Biſhop.<note place="margin">Theod lib. <hi>1.</hi> cap. <hi>2.</hi>
+               </note> So alſo ſaith <hi>Theodoret</hi> of the <hi>Arian</hi> hereſie, that it was firſt ſet a<g ref="char:EOLhyphen"/>broach becauſe <hi>Alexander</hi> had that dignitie which <hi>Arius</hi> deſired. And as for <hi>Donatus,</hi> it was likewiſe ſo with him: For when hee could not attaine to the Biſhopricke of <hi>Carthage,</hi> but ſaw <hi>Cecilianus</hi> preferred before him, he turneth hereticke, and drawes away no few Diſciples after him. Nor doe our owne times but pro<g ref="char:EOLhyphen"/>duce the like preſidents: For as wee have late<g ref="char:EOLhyphen"/>ly heard the perverſe words of that fierie ſpi<g ref="char:EOLhyphen"/>rit, who (both in his pulpit <hi>Paſquil,</hi> and thoſe ſeditious rayling Pamphlets, which came to the hands of many people) laboured what hee could to ſet all in combuſtion: So have wee alſo heard how hee bemoanes himſelfe as an out-caſt Courtier; thereby betraying the true cauſe, which firſt moved him to crie aloud a<g ref="char:EOLhyphen"/>mong the people, and bee the direfull fomen<g ref="char:EOLhyphen"/>ter of unquiet ſtirres. And yet (wee thanke
+<pb n="10" facs="tcp:135623:6"/>our God) the miſchiefe intended was preven<g ref="char:EOLhyphen"/>ted, He made his madneſſe to bee manifeſt, and ſo (as the Scripture ſpeaketh) he prevailes no further:<note place="margin">2. <hi>Tim.</hi> 3.9.</note> for like <hi>Eſops</hi> Camel, <hi>Dum cornua quaerebat perdidit aures.</hi>
+            </p>
+            <p>But becauſe all men are not proane to one vice, there be befide this, a multitude of other cauſes. I liſt not to mention all, but touch at ſome.</p>
+            <p>And next after this alreadie mentioned,<note place="margin">Selfe-con<g ref="char:EOLhyphen"/>ceit a cauſe.</note> there is a Philautian Spurre; Selfe-conceit; <hi>Immodicus amor ſui, Immoderate love of a mans ſelfe.</hi> This breedes him up in ſin gularitie; This makes a mans owne fancies bee the beſt pleaſing: And then, from hence ariſeth obſti<g ref="char:EOLhyphen"/>nacie, pride and contention; dilating it ſelfe ſo farre, that when others ſhall oppoſe, or be un<g ref="char:EOLhyphen"/>willing to conſent unto him, hee ſhootes out his arrowes, even bitter words: he ſpeakes (as ſaith the text) perverſe things.</p>
+            <p>To which may bee added thirdly,<note place="margin">Vain-glorie a cauſe.</note> that itch<g ref="char:EOLhyphen"/>ing deſire of vaine tumid glorie, with which whoſo is taken, hee is a man made fit for facti<g ref="char:EOLhyphen"/>on, applies himſelfe to the people, ſpeakes di<g ref="char:EOLhyphen"/>ſtort and crooked words, tangs up and downe to draw away Diſciples after him; accounting it as a jemme of admirable worth, to bee gra<g ref="char:EOLhyphen"/>cious in the eyes of the common multitude: and if <hi>Vox populi</hi> proclaime him Learned, no matter though the Learned know him to bee indeed the true-borne child of an <hi>Irnoramus.</hi>
+               <pb n="11" facs="tcp:135623:6"/>Fathers, nor Councels, nor Schoole-men hee may not touch: or if hee doe, it is not to light His candle by Their torches; but to make the people beleeve that his owne Lampe hath bet<g ref="char:EOLhyphen"/>ter light. Convince him therefore they that can, his timpany is ſure to ever ſwell; and though the bladder be broken by force of truth oppoſed to his errours; yet ſeldome or never expect to ſee him yeeld: For (as one truely ſpeaketh) <hi>Ex hac gloriae cupiditate oritur perti<g ref="char:EOLhyphen"/>natia nuſquam flexibilis,</hi>
+               <note place="margin">Alfonſ. de Caſtr. adverſ. haereſ. lib. <hi>1,</hi> cap. <hi>2.</hi>
+               </note> 
+               <hi>adeo etiam, ut cum in certamine ſuecubuerit, cedere tamen nolit.</hi> And againe, as ſaith the ſame Authur; <hi>Qui cupidus eſt gloriae, quid pro hac aſſequenda facere non audebit? ad illam metam greſſus omnes dirigit, ad hoc lo<g ref="char:EOLhyphen"/>quitur, pro hac re ſcribit, &amp; hac de cauſa conten<g ref="char:EOLhyphen"/>tionem excitat.</hi> That is, <hi>Hee who is deſirous of vaine-glorie, what will hee not dare to doe for the attaining thereof? this is the marke to which hee directeth all his goings, to this he ſpeaketh, for this hee writeth, and by reaſon of this hee ſtirres up contention;</hi> Yea, and ſo goes on, <hi>Populo ut place<g ref="char:EOLhyphen"/>ret, that hee may draw away Diſciples after him.</hi>
+            </p>
+            <p n="5">5. But is it not pittie that the birth of the child ſhould endanger the life of the Mother? and that men of the Church ſhould leave off to bee the Daughters of <hi>Ieruſalem?</hi> Verely the qualitie of offenders addes not a little to the depth of the fault, and makes it to worſe taken at their hands, who ſhould rather
+<pb n="10" facs="tcp:135623:7"/>reduce than bee the Leaders to a fierie Faction. For, as when <hi>Caeſar</hi> was ſlaine in the Senate, it troubled him much to ſee others riſe up againſt him; but moſt of all, that his owne ſonne <hi>Brutus</hi> ſhould bee one amongſt them: where<g ref="char:EOLhyphen"/>upon hee cries out,<note place="margin">Sueton in Ju<g ref="char:EOLhyphen"/>lio Caeſare.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, What? and thou my ſonne? So alſo, that the Church bee troubled by any, is griefe enough; but that They, who ſhould bee chiefly for it, that They ſhould riſe up againſt it, is <hi>Infandum facinus,</hi> a wickedneſſe which cannot bee uttered but with the higheſt and greateſt deteſtation. It was not an open enemie that did mee this diſho<g ref="char:EOLhyphen"/>nour, for then I could have borne it; but it was thou, even thou my familiar friend: as the Pſalmiſt ſpeaketh.<note place="margin">Pſal. 55.12.</note> And that thou ſhouldeſt doe it, is too too much: who could have thought it? Chriſt I am ſure hath ſet a Copie to bee better written: For <hi>perdidit vitam poti<g ref="char:EOLhyphen"/>us, quam per deret obedientiam; Hee would ra<g ref="char:EOLhyphen"/>ther part with his life than loſe his obedience.</hi> And yet theſe men had rather diſgorge their ſtomacks to excite their Diſciples againſt Su<g ref="char:EOLhyphen"/>periours, than ſtudie to reduce them to a more quiet and dutifull way. They therefore ſtartle them with feares, as if both Tyrannie and Po<g ref="char:EOLhyphen"/>perie were comming in; only becauſe their Conſiſtorian tenets concerning Kings may not be allowed, nor They no longer ſuffered to violate that decent Vniformitie which beſt be<g ref="char:EOLhyphen"/>commeth Gods publike worſhip.</p>
+            <pb n="11" facs="tcp:135623:7"/>
+            <p> I ſpeake theſe things againe of our preſent calamities: for theſe very dayes of ours have as great a ſhare in the truth of our Apoſtles prediction, as almoſt any of the dayes that have ever beene. And therefore wee, as well as our Fathers, can teſtifie and ſay; <hi>Paulus verus vates,</hi> Paul <hi>is a true Prophet:</hi> for as hee hath ſpoken, ſowee find; that <hi>From among our ſelves doe a<g ref="char:EOLhyphen"/>riſe men ſpeaking perverſe things, to draw away Diſciples after them.</hi>
+            </p>
+            <p>And indeed they may draw them farre e<g ref="char:EOLhyphen"/>nough, ſo eaſie are they to bee ſet agog. For that man among us who can but ſhew his diſ<g ref="char:EOLhyphen"/>like of the Churches Hierarchie, traduce the men thereof for unſound intentions, preferre Preaching before Praying, ſoare up aloft into the high and deepe points of Predeſtination, detract from the honour of the Houſe of God, and bee homely bold in his holy worſhip, ſhall not want a traine to follow after him, from Pariſh to Pariſh, from Towne to Towne, from Citie to Citie, from one Kingdome to another people; yea, from one <hi>England</hi> to another.</p>
+            <p>But, though by ſuch kind of meanes, theſe men may have a number both of Hee and She-Diſciples [<hi>ſatis dicaculi,</hi>
+               <note place="margin">Plaus.</note> as the Comicke ſpea<g ref="char:EOLhyphen"/>keth] who will bee readie to prate and prattle enough in behalfe of their deare Maſters, as if all but they were Arch-traytours to the Faith, and Factours for the Sea of <hi>Rome;</hi> yet are theſe ſtout Champions for Religion (to men
+<pb n="14" facs="tcp:135623:8"/>of knowledge and moderation) no better then the bane and Diſturbers thereof. And there<g ref="char:EOLhyphen"/>fore their ſilly Proſelytes are too preſumptu<g ref="char:EOLhyphen"/>ous, nice,<note place="margin">Epiſt. <hi>118.</hi> ad Ianuar. cap. <hi>2.</hi>
+               </note> and credulous. They have <hi>ſuperſti<g ref="char:EOLhyphen"/>tioſa timiditas</hi> it is S. <hi>Auſtins</hi> phraſe: <hi>They feare ſuperſtition</hi> but it is with a ſuperſtitious feare. And ſo, <hi>Dum vitant ſtulti vitia, in contraria currunt;</hi>
+               <note place="margin">Iude, verſ. <hi>10:</hi>
+               </note> ſpeaking evill many times of thoſe very things, which God almightie knowes they underſtand not: For if they underſtand them, why are they ſo wicked as to ſpeake a<g ref="char:EOLhyphen"/>gainſt them? I ſay no more; tis time I ſhew they are gone aſtray. For,</p>
+            <p>Firſt, if they denie the divine right of the Churches Hierarchie, they doe more than was done by the holy Spirit it ſelfe, which, when the ſeven Churches of <hi>Aſia</hi> (mentioned by Saint <hi>Iohn</hi>) were taxed for their errours uſed not one word or other againſt the forme of their government: whereas I doe not doubt,<note place="margin">Revelat. in chap. <hi>2.</hi> &amp; chap. <hi>3.</hi>
+               </note> but if the Pillars thereof had wanted that, which wee call a <hi>Ius divinum,</hi> the breath of the Spirit had overthrowne them. And indeed, Chriſt ſhewed the difference, in the Seventie and the Twelve: for hee did at the very firſt ſo order the matter in chooſing Church officers, as that there were inferiour and ſuperiour Prieſts; Sheepe and Lambes: for ſo he<note n="*" place="margin">Math. 10.16 Luk. 10.3.</note> ſtiles them when hee ſent them. And loe here I find, that <hi>Rome</hi> hath made many things offenſive to ignorant and vulgar eares. But then againe
+<pb n="15" facs="tcp:135623:8"/>As a man may not loathe his meate, becauſe ſome have ſurfetted; nor abhorre his drinke, becauſe many a Rioter hath beene drunken: no more may <hi>Romes</hi> arogancie cauſe us to con<g ref="char:EOLhyphen"/>temne or fight againſt Chriſts ordinance.</p>
+            <p>And ſecondly, as for that bitter out-crie of unſound intentions, it is (without queſtion) a cauſeleſſe and Panicke feare: for from the ig<g ref="char:EOLhyphen"/>norance of Antiquitie proceeds that needleſſe ſuſpition of a Popiſh Reformation. Whereas on the contrarie, if things bee well lookt into, the worſt of Vipers (after all their digging and delving into their Mothers bowels) may find enough to confeſſe their follies, and ſay with <hi>Nero, Neſciebam me tam pulchram Ma<g ref="char:EOLhyphen"/>trem habere: I never knew till now that I had ſo faire a Mother.</hi> Yea, and each Governour like<g ref="char:EOLhyphen"/>wiſe, with other well-ordered perſon, may comfort himſelfe and ſay; <hi>Regium eſt andire malè cum feceris benè; ſi rectè facis quid eos ve<g ref="char:EOLhyphen"/>reris, qu<g ref="char:cmbAbbrStroke">̄</g>i non rectè reprehendunt.</hi>
+            </p>
+            <p>Then alſo thirdly, to preferre Preaching before praying, is to magnifie the meanes be<g ref="char:EOLhyphen"/>fore the End. For, (as it is in <hi>Rom.</hi> 10.13.) <hi>Whoſoever ſhall call upon the name of the Lord ſhall bee ſaved.</hi> But then next,<note place="margin">Rom. 10.14.</note> 
+               <hi>How ſhall they call on him, in whom they have not beleeved? and how ſhall they beleeve in him of whom they have not heard? and how ſhall they heare without a Preacher?</hi>
+            </p>
+            <pb n="14" facs="tcp:135623:9"/>
+            <p> Nor can Chriſt take it well to have his owne words blotted. For though a Sermon<g ref="char:EOLhyphen"/>bell can tang more together, than a Bell that is tolled, and ſo bee a true token that there is ſome ſchiſme in the Church; yet remem<g ref="char:EOLhyphen"/>ber what hee ſaith. Hee no where tells us that his houſe ſhall bee called the houſe of Preaching:<note place="margin">Math. 21.13.</note> But, <hi>Sic ſcriptum eſt; It is thus written, My houſe ſhall bee called the houſe of Prayer.</hi> And this, as to ſhew the excellencie of Prayer in generall, ſo in particular to ex<g ref="char:EOLhyphen"/>preſſe unto us the excellencie of publike Prayer in the Congregation: the one a dutie to bee done of all that would have Chriſt to bee their<note n="*" place="margin">Revel. 8.3.</note> Advocate: the other, of thoſe who doe not only ayme at that, but take alſo the right courſe in Gods ſervice; neither let<g ref="char:EOLhyphen"/>ting private prayer bee preferred before the publike, nor publike prayer bee either put downe, or diſreſpected, to let Preaching have the chiefe preheminence in the holy Temple. So alſo ſay the Apoſtles, in <hi>Act.</hi> 6. at the fourth verſe; <hi>But wee</hi> (ſay they) <hi>will give our ſelves continually to Prayer, and to the Mi<g ref="char:EOLhyphen"/>niſtration of the Word.</hi> This was their order, To prayer firſt; and to the Miniſtration of the Word, that came next. And if ſo, then here wee ſee, though <hi>Simeon</hi> bee the elder brother, yet to <hi>Iudah</hi> is the Scepter given: And as of <hi>Iu<g ref="char:EOLhyphen"/>dah</hi> came Chriſt the promiſed ſeed; ſo to <hi>Iudah,</hi>
+               <pb n="15" facs="tcp:135623:9"/>that is to Prayer (as one ſpeaketh worthily) is the Promiſe made. Which I therefore note with him, becauſe <hi>Simeon</hi> in his name ſignifieth Hearing; <hi>Iudah</hi> Prayer and Prai<g ref="char:EOLhyphen"/>ſing.</p>
+            <p>And well doe I give a touch at Praiſe as well as Prayer: for it is indeed a part of Prayer, and one maine piece of our holy Service. The heavenly ſocietie is frequent in it: and wee on earth make Gods houſe then to bee like the heavens, when Prayer and Praiſe have chiefeſt place in the Con<g ref="char:EOLhyphen"/>gregation.</p>
+            <p>I reckon it therefore as a great offence for men of our C hing to let the people turne all their members into eares. Is Re<g ref="char:EOLhyphen"/>ligion nothing elſe but hearing? have they no knees, no hands, no tongues? No knees to bend, no hands to hold up, no tongues to ſpeaking? A ſhame moſt certaine. And though ſome men among us may account it their glorie, yet ſure I am, it robbeth God of a great deale of honour, which hee expects and looketh for at his peoples hands.</p>
+            <p>Not that I doe hereby intend any thing to the prejudice of Preaching; it is farre from mee: but to ſhew the right order of Gods ſervice; And ſo much the rather, becauſe there is ſcarce any place allowed
+<pb n="16" facs="tcp:135623:10"/>(amongſt too many) for <hi>Indah</hi> to appeare in the houſe of God. But did the holy Fathers thus? They were indeed very fre<g ref="char:EOLhyphen"/>quent and fervent Preachers: and yet never<g ref="char:EOLhyphen"/>theleſſe no part of the Liturgie was then omitted, but all performed from firſt to laſt: and why? they meaſured their Sermons, not by their length, but by their ſtrength; not by a rude and indigeſted Chaos of many words, but by a ſweet, conciſe, and apt kind of ſpeaking; as when wee read them is ap<g ref="char:EOLhyphen"/>parent.</p>
+            <p>And laſt of all (for I<note n="*" place="margin">Not that they were o<g ref="char:EOLhyphen"/>mitted when this Sermon was preach<g ref="char:EOLhyphen"/>ed: and yet omitted now, becauſe I have writ<g ref="char:EOLhyphen"/>ten more ful<g ref="char:EOLhyphen"/>ly of them in my book in<g ref="char:EOLhyphen"/>tituled <hi>Pro<g ref="char:EOLhyphen"/>ſano-Maſtix.</hi>
+               </note> omit the reſt) to meddle more then is meete with the high and deepe points of Predeſtination, ſavours very little of that happy wiſdome which they enjoy who are wiſe unto ſobrietie. It is enough for us that wee ſtirre up our Flockes to attend their Salvation, and to worke it out with feare and trembling; and not buſie their heads with ſuch thornie doubts and wounding queſtions as torment their ſoules, and perplexe their conſciences, and thereupon not ſeldome drive them to Deſperation.</p>
+            <p>The very heathens have taught us more diſcretion in ſuch a caſe. For among the wiſe Graecians (as Saint <hi>Auſtin</hi> writeth) the difficult points of their Religion,<note place="margin">DeCivit. Dei, lib. <hi>6.</hi> c. <hi>5.</hi>
+               </note> were never laid open to the diſcuſſing of the igno<g ref="char:EOLhyphen"/>rant
+<pb n="17" facs="tcp:135623:10"/>people. Nor would <hi>Varro</hi> (that lear<g ref="char:EOLhyphen"/>ned Roman) ſuffer the bookes of deepeſt queſtions, and higheſt myſteries, to come to the ſight of the commou multitude, but bee kept in private for the learned Schooles. And I verily beleeve it as a thing profitable, to forbeare the diſcuſſing of ſome points in the open Pulpit, for their ſakes that are un<g ref="char:EOLhyphen"/>capable. <hi>In abſoluto ac facili eſt aeternitas,</hi>
+               <note place="margin">Hilar. de Trin. lib. <hi>10.</hi> juxta finem.</note> ſaith a Father, <hi>God doth not bring men to heaven by difficult queſtions:</hi> nor can wee edifie as wee ought, when wee preach ſuch deſperate poſitions, and loftie ſpeculations, as are oppoſite to the receiving of Gods Promiſes in ſuch wiſe, as they are ſet forth to us in the holy Scripture; wherein his love to Man kind is ſo made manifeſt, as that hee plainly ſheweth hee would have all to bee ſaved, and come to the knowledge of the truth. This is that which his<note n="*" place="margin">1 Tim. 2.4. 2 Pet. 39. Ezek. 18.32. Ezek. 33.11. Joh 3.16. 1 Joh. 2.2, Rom. 1.32. Joh. 12.47. Eſa 65.2. 1 Chron. 28.9 2 Chro. 15.2 Luke 19.10. Joh. 5.34.40. Mich. 7.18. Math. 23.37.</note> Word proclaimeth: and therefore they are but bold preſumptions, which lead us to the clo<g ref="char:EOLhyphen"/>ſet of his ſecret counſels.</p>
+            <p>Thus have I ſhewed, not only a briefe Catalogue of ſome of thoſe cauſes, which incite Men to ariſe from among us, and ſpeake perverſe things; but have alſo in part declared the weake and feeble meanes, whereby they deceive their ſilly Proſelytes. And herein I cannot but grieve, that the
+<pb n="18" facs="tcp:135623:11"/>poore Roes, and Hindes of the field ſhould bee thus deluded. They are led up and downe, as wanderers in the darke by an <hi>Ig<g ref="char:EOLhyphen"/>nis fatuus;</hi> and are made thereby ſuch in<g ref="char:EOLhyphen"/>ſtruments of miſchiefe, as draw up the ſlu<g ref="char:EOLhyphen"/>ces to let in confuſion. Chriſt might there<g ref="char:EOLhyphen"/>fore well give it in charge to the Daughters of <hi>Ieruſalem;</hi> yea, and charge them likewiſe by the Roes and Hindes of the field,<note place="margin">Cantic. 2.7.</note> that they ſtirre not up, nor waken his Love untill ſhee pleaſe.</p>
+            <p>And (for application) let us,<note place="margin">The Appli<g ref="char:EOLhyphen"/>cation.</note> my Bre<g ref="char:EOLhyphen"/>theren, attend his charge: for to men of our Calling hee directs it moſt eſpecially, as one that knew what manner of men would ſometimes ariſe from among our ſelves.</p>
+            <p>¶ And firſt of all, Let not ambition ſet her blacke foot within our hearts; for it is a ſtrong temptation, blind in what it pur<g ref="char:EOLhyphen"/>ſueth, knowes nor reaſon nor religion, but is the Mother and Nurſe of many miſ<g ref="char:EOLhyphen"/>chiefes. It is a drie drunkenneſſe, by the force whereof no few have reeled into a per<g ref="char:EOLhyphen"/>verſe and factious way. Let it not there<g ref="char:EOLhyphen"/>fore once come neere us, let us bee ſtrangers to it, oh! let it not ſo much as ſtick upon our fingers ends.</p>
+            <p>Howbeit, I doe confeſſe moſt freely that the Labourer is alwayes worthy of his hire, and curſed bee they who ſcant or detaine
+<pb n="19" facs="tcp:135623:11"/>him from it. Men called to ſerve at the Al<g ref="char:EOLhyphen"/>tar, are not to ſterve at the Altar, but to live thereof. I doe therefore hold it as lawfull to ſeeke fairely for an augmentation of ſhort meanes, as to pray to God for our daily bread. I doe alſo acknowledge that Prefer<g ref="char:EOLhyphen"/>ment is for <hi>Men of parts;</hi> and with ſuch a difference likewiſe, as that ſome are not on<g ref="char:EOLhyphen"/>ly worthy of honour, but of double ho<g ref="char:EOLhyphen"/>nour, as the Apoſtle ſpeaketh. It is alſo found to bee true, that Small Livings make wooder Prieſts; or at the leaſt a proud and an inſulting people, which ſticke not to tread and trample on their Paſtours, according to the filthy affectation of their owne high hearts, and preſumptuous ſpirits. Yet can this bee no warrant for ambitious hunting for Preferment; nor any thing of counte<g ref="char:EOLhyphen"/>nance to thoſe who ariſe, becauſe they find they cannot bee raiſed: who ſpeake againſt, becauſe they cannot bee ſpoken for. This firſt.</p>
+            <p>¶ Let alſo Selfe-conceit not make us ſin<g ref="char:EOLhyphen"/>gular, <milestone type="tcpmilestone" unit="unspecified" n="2"/> for it is a meanes to expell that aſſen<g ref="char:EOLhyphen"/>ting ſpirit, which ought to knit us all toge<g ref="char:EOLhyphen"/>ther. <hi>Quem non gula vincit, Philautia ſu<g ref="char:EOLhyphen"/>peravit,</hi> ſaith Saith <hi>Cyprian:</hi> and not unfit<g ref="char:EOLhyphen"/>ly. For ſuch is the pride of ſingular per<g ref="char:EOLhyphen"/>ſons, as what they have once ſaid they muſt and will maintaine, bee it right or
+<pb n="20" facs="tcp:135623:12"/>wrong. None may attempt to oppoſe ſuch Men of parts: for like <hi>Cotys</hi> King of <hi>Thrace,</hi> they are married to <hi>Minerva:</hi> and though <hi>ſtultitiam ſuam produnt,</hi> yet move them not too farre, leſt you bee ſent to ſee, <hi>Num Dea in thalamum,</hi> whether the God<g ref="char:EOLhyphen"/>deſſe of ſuch wiſdome bee not come to their beddes.<note place="margin">2 Kin. 9.22.</note> As therefore <hi>Iehu</hi> ſaid to <hi>Ie<g ref="char:EOLhyphen"/>horam, What peace can there bee ſo long as the whoredomes and witchcrafts of thy Mo<g ref="char:EOLhyphen"/>ther Ieſabel are ſo many?</hi> in like manner, what peace can bee expected, ſo long as ſingular conceits ſeize thus upon us, and bewitch our mindes with that fatall ſpirit of Separation, ſtrife, harme, and dammage? But if this bee the fruit of ſuch a tree, <hi>prin<g ref="char:EOLhyphen"/>cipiis obſta;</hi> let us learne to ſtay and ſtop betimes: and that for his ſake, whoſe coate wee know was voide of ſeame. Ne<g ref="char:EOLhyphen"/>ver let our Adverſaries caſt it longer in our teeth, that wee jarre and jangle for wee know not what: but let us bee ſo faſt uni<g ref="char:EOLhyphen"/>ted each to other, as that wee keepe the uni<g ref="char:EOLhyphen"/>tie of the Spirit in the bond of peace: For, <hi>Non habent Dei charitatem,</hi>
+               <note place="margin">Aug: de Bapt. lib. <hi>3.</hi> c. <hi>16.</hi>
+               </note> 
+               <hi>qui Eccleſiae non diligunt unitatem.</hi> And therefore let us bee ſo faſt (I ſay) united each to other, as that wee keepe the unitie of the Spirit in the bond of peace. That is, Bee ſound and not fingular in our doctrine; bee quiet and not
+<pb n="21" facs="tcp:135623:12"/>quarrelſome concerning ſuch orders, as our Superiour Fathers, and their Officers, thinke fit either to command, or commend unto us; For thus ſhall wee winne the people to godlineſſe of life, holy reverence, and a true eſteeme of holy things. But on the contra<g ref="char:EOLhyphen"/>rie, if wee ſtand mooting of the matter with <hi>Mihi videtur, &amp; mihi non videtur,</hi> like <hi>Cato</hi> and <hi>Scipio</hi> in the Senate, then what can bee expected at the peoples hands but tergiver<g ref="char:EOLhyphen"/>ſations, malicious upbraidings, diſobedient practices, and ſuch a world of irreverent words and actions, as muſt needs be abomi<g ref="char:EOLhyphen"/>nable to the higheſt Majeſtie. I ſee then by this, that if there bee diſaffection in the peo<g ref="char:EOLhyphen"/>ple, the cauſe flowes firſt from among the Prieſts; who either marre young ones in their making, or cheriſh old ones in their peeviſh, perverſe, and irreverent practice.</p>
+            <p>But becauſe ſuch Lights were never in<g ref="char:EOLhyphen"/>tended for the Sanctuarie, let the golden ſnuffers bee aſſumed into the hands of our Governours, that therewithall they may correct theſe obſcuring Lamps, and make them ſhine with a better luſtre: for as Saint <hi>Hierom</hi> truly ſpeaketh,<note place="margin">Hier. Epiſt. ad Vigil.</note> 
+               <hi>Non eſt crudelitas pro Deo pietas.</hi> And therefore ſpare them not.</p>
+            <p>Yea, and laſt of all; <milestone type="tcpmilestone" unit="unspecified" n="3"/> Let not the deſire of Vain-glorie, or deceiving applauſe of the common multitude take hold upon us. For,
+<pb n="22" facs="tcp:135623:13"/>as at the beſt it is but a peſtiferous root, pro<g ref="char:EOLhyphen"/>ducing branches of a pertinacious kind: ſo in concluſion it makes us unfit to be the Ma<g ref="char:EOLhyphen"/>ſters of our owne judgement; but blinds us from diſcerning truth from errour, peace from Faction, and will not let us ſee who they be that trouble <hi>Iſrael;</hi> God not refu<g ref="char:EOLhyphen"/>ſing to ſuffer thoſe to goe aſtray, who cared not in time to leave and forſake this itching humour. <hi>Ex illa enim peſsima radice, ſicut o<g ref="char:EOLhyphen"/>ritur pertinacia, ita &amp; judicit fallacia, ut prop<g ref="char:EOLhyphen"/>ter peccatum Deus permittat eos in errorem du<g ref="char:EOLhyphen"/>ci;</hi> as one obſerveth. It were indeed a praiſe to ſee a man amongſt a giddie-headded mul<g ref="char:EOLhyphen"/>titude bee like the river <hi>Arethuſa.</hi> which though it paſſeth through the <hi>Scicilian</hi> Sea,<note place="margin">Virg. Eclog. ultima.</note> is not tainted with the ſaltneſſe thereof. But to let the breath of the people prevail above the breath of the Spirit, is to make that true which <hi>Plinie</hi> mentions of a certaine Nation, who doe <hi>anhelitu oris enec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re homin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll men with the breath that comes from their mouthes.</hi>
+               <note place="margin">Plin. in hiſt. nat.</note> For thus, as wee harme them by going about to draw them after us, when we ariſe and ſpeake perverſe things: So they us, by the bewitching charmes of their com<g ref="char:EOLhyphen"/>mendation.</p>
+            <p>In a word, let me cloſe with this; I meane the remembrance of our holy Calling: for wee are the ſervants of Ieſus Chriſt by ſpe<g ref="char:EOLhyphen"/>ciall
+<pb n="23" facs="tcp:135623:13"/>commiſſion, and muſt not therefore bee guided in our doings and ſayings by popular humours: for as Saint <hi>Paul</hi> affir<g ref="char:EOLhyphen"/>meth,<note place="margin">Galat. 1.10.</note> if wee ſhould yet pleaſe men, wee cannot bee the ſervants of Chriſt. And therefore with him againe,<note place="margin">1 Cor. 1.10.</note> 
+               <hi>I beſeech you brethren, by the name of our Lord Ieſus Chriſt, that yee all ſpeake one thing, and that there be no diſſention among you: but bee yee knit to<g ref="char:EOLhyphen"/>gether in one minde, and in one judgement.</hi> For as it is an honourable thing to die for ones countrie; ſo much more noble muſt it needes bee, <hi>mori mundo, to die to the world,</hi> and reſtore (what wee can) all ill affected people, to live in obedience to their holy Mother. For as it is a zeale too prepoſte<g ref="char:EOLhyphen"/>rous to ſhed the bloud of warre in peace: So doe not thinke it any point of Pietie to breake the orders of a well-ordered Church; yea, of ſuch a Church, as ſtrives to bee fa<g ref="char:EOLhyphen"/>ſhioned according to the patternes of the pureſt times. Oh thinke what it is to bee obedient: obedience is better than Sacri<g ref="char:EOLhyphen"/>fice,<note place="margin">1 Sam. 15.22.23.</note> but rebellion is like the ſinne of witch<g ref="char:EOLhyphen"/>craft: This being Gods owne Sanction,<note place="margin">Rom. 13.1. Heb. 13.17.</note> that Every ſoule be ſubject to the higher powers; that wee obey them who have the over<g ref="char:EOLhyphen"/>ſight of us, and ſtand to watch for the good of our ſoules; and finally,<note place="margin">Pſal. 122.6.</note> that Peace bee both ſought and prayed for, for <hi>Ieruſalem.</hi>
+               <pb n="24" facs="tcp:135623:14"/>None of which is then done, when diſcord is cheriſhed, dutie condemned, ſchiſme ad<g ref="char:EOLhyphen"/>vanced, and faction maintained in the Church of God.</p>
+            <p>But from the miſerie of all ſuch evils, Good Lord deliver us, and ſo watch conti<g ref="char:EOLhyphen"/>nually over us, that wee may bee preſerved, and defended from all our enemies, and have ſuch happie dayes as may advance the truth, and due decencie of Gods worſhip, from this time forth forevermore.</p>
+            <p>And now, if after all, there be a <hi>Plus ultra,</hi> yet that would bee thought upon, it is that I direct my ſpeech to you (my friends) who bee the Guardians of the Church: yee are called hither, not to con<g ref="char:EOLhyphen"/>ceale, but to lay open the abuſes and diſor<g ref="char:EOLhyphen"/>ders of your Pariſh. Looke to your oathes, examine your conſciences, and acquit your ſelves from that foule ſinne of horrid per<g ref="char:EOLhyphen"/>jurie. Let your Bills give in a true and a juſt evidence: for you take the great God of heaven and earth to witneſſe, that you will ſaithfully performe the duties of your office.<note place="margin">Galat. 6.7. Exod. 20.7.</note> Bee not deceived, God is not mock<g ref="char:EOLhyphen"/>ed: hee hath plagues in ſtore for ſuch of<g ref="char:EOLhyphen"/>fenders, as take in vaine his holy name. And therefore, as it is not for us to <hi>ariſe and ſpeake perverſe things,</hi> though wee may draw a<g ref="char:EOLhyphen"/>way never ſo many Diſciples after us; ſo
+<pb n="25" facs="tcp:135623:14"/>neither for you to diſſemble what you know (though you may gaine never ſo many to applaud you for it) but uprightly to dico<g ref="char:EOLhyphen"/>ver what is done amiſſe. Which if you did, and did it as you ought, there would not bee ſo great contempt of holy places, and ſa<g ref="char:EOLhyphen"/>cred things, nor ſo ſlight regard of Gods ſervice; many, not only being tardie when they ſhould aſſemble to confeſſe their ſinnes amongſt the reſt of Gods people, but (as if that were not enough) bee frequently knowne to come dropping in, when all elſe is almoſt ended.</p>
+            <p>I paſſe by much more that I might relate, and ſhall only for the preſent commend un<g ref="char:EOLhyphen"/>to you that worthy reſolution of an holy Father, whoſe words are theſe;<note place="margin">Greg. mag. lib. <hi>7.</hi> Indict. <hi>2.</hi> Epiſt. <hi>78.</hi>
+               </note> 
+               <hi>In cauſa in qua Deo placere cupio, homines non for mido:</hi> that is, <hi>In a caſe</hi> (ſaith hee) <hi>wherein I deſire to pleaſe my God, I may not bee afraid of the frownes of Men.</hi> And there is rea<g ref="char:EOLhyphen"/>ſon for it.<note place="margin">Revel. 21.3.</note> For from the New <hi>Ieruſalem</hi> ſhall bee excluded, as well the Fearefull as Vn<g ref="char:EOLhyphen"/>beleevers. And yet that is the Citie of the great God, the eternall palace of the hea<g ref="char:EOLhyphen"/>venly King: where the Citizens all know without errour, praiſe without wearineſſe, love without changeableneſſe; enjoying that tranquilitie which hath no diſturbance,
+<pb n="26" facs="tcp:135623:15"/>that gaine which hath no loſſe, that ſecuri<g ref="char:EOLhyphen"/>tie which hath no alteration, that concord which is with full conſent, that Muſicke which is ſounded forth in the melodie of bleſſed Saints and holy Angels, prayſing God, and ſinging the Anthemes of an hea<g ref="char:EOLhyphen"/>venly Quire. Whether hee bring us, who hath ſo dearely bought us, even Ieſus Chriſt the righteous, to whom, with the Father and the holy Spirit, bee aſcribed (as is moſt due) all honour and glorie, now and for ever <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <signed>Tho. Wykes.</signed>
+               <date>
+                  <hi>Novemb.</hi> 9. 1638.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:135623:15"/>
+            <pb facs="tcp:135623:16"/>
+            <pb facs="tcp:135623:16"/>
+            <p>Perlegi hunc Tractatum, cui titulus <hi>Propha<g ref="char:EOLhyphen"/>no-Maſtix,</hi> dignum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> judico qui typis man<g ref="char:EOLhyphen"/>detur.</p>
+            <closer>
+               <signed>
+                  <hi>Tho. Wykes</hi> R. P. Epiſc. Lond. Capell. domest.</signed>
+               <date>
+                  <hi>Octob 17. 1638.</hi>
+               </date>
+            </closer>
+            <pb facs="tcp:135623:17"/>
+            <pb facs="tcp:135623:17" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
